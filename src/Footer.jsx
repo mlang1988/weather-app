@@ -14,7 +14,11 @@ export default function Footer() {
           Mona Lang
         </a>{" "}
         and is{" "}
-        <a href="http://" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/mlang1988/weather-app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           open-sourced
         </a>{" "}
         on GitHub.
