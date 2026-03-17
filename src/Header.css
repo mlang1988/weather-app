@@ -1,0 +1,26 @@
+header {
+  border-bottom: 1px solid #f9f7fe;
+  padding-bottom: 30px;
+}
+.search-input {
+  background-color: #f9f7fe;
+  border: none;
+  color: rgba(39, 33, 66, 0.4);
+  font-size: 16px;
+  padding: 20px;
+  width: 75%;
+  border-radius: 6px;
+}
+input.search-input:focus-visible {
+  outline-offset: 0px;
+}
+.search-button {
+  background: #885df1;
+  color: white;
+  margin-left: 5px;
+  font-size: 16px;
+  line-height: 1;
+  padding: 20px;
+  border-radius: 5px;
+  border: none;
+}
